@@ -4,7 +4,7 @@
 Summary:    Pure ruby scoped configuration files
 Name:       rubygem-%{oname}
 Version:    1.1.0
-Release:    %mkrel 1
+Release:    2
 Group:      Development/Ruby
 License:    Ruby License
 URL:        http://github.com/ahoward/configuration/tree/master
