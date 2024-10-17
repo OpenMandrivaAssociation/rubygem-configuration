@@ -7,7 +7,7 @@ Version:    1.1.0
 Release:    2
 Group:      Development/Ruby
 License:    Ruby License
-URL:        http://github.com/ahoward/configuration/tree/master
+URL:        https://github.com/ahoward/configuration/tree/master
 Source0:    http://gems.rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
